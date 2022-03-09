@@ -1,0 +1,16 @@
+E:\C#_Workspace\Day02_HW\bin\Debug\net5.0\Day02_HW.exe
+E:\C#_Workspace\Day02_HW\bin\Debug\net5.0\Day02_HW.deps.json
+E:\C#_Workspace\Day02_HW\bin\Debug\net5.0\Day02_HW.runtimeconfig.json
+E:\C#_Workspace\Day02_HW\bin\Debug\net5.0\Day02_HW.runtimeconfig.dev.json
+E:\C#_Workspace\Day02_HW\bin\Debug\net5.0\Day02_HW.dll
+E:\C#_Workspace\Day02_HW\bin\Debug\net5.0\ref\Day02_HW.dll
+E:\C#_Workspace\Day02_HW\bin\Debug\net5.0\Day02_HW.pdb
+E:\C#_Workspace\Day02_HW\obj\Debug\net5.0\Day02_HW.csproj.AssemblyReference.cache
+E:\C#_Workspace\Day02_HW\obj\Debug\net5.0\Day02_HW.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#_Workspace\Day02_HW\obj\Debug\net5.0\Day02_HW.AssemblyInfoInputs.cache
+E:\C#_Workspace\Day02_HW\obj\Debug\net5.0\Day02_HW.AssemblyInfo.cs
+E:\C#_Workspace\Day02_HW\obj\Debug\net5.0\Day02_HW.csproj.CoreCompileInputs.cache
+E:\C#_Workspace\Day02_HW\obj\Debug\net5.0\Day02_HW.dll
+E:\C#_Workspace\Day02_HW\obj\Debug\net5.0\ref\Day02_HW.dll
+E:\C#_Workspace\Day02_HW\obj\Debug\net5.0\Day02_HW.pdb
+E:\C#_Workspace\Day02_HW\obj\Debug\net5.0\Day02_HW.genruntimeconfig.cache
